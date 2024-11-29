@@ -1,0 +1,6 @@
+moviepy>=1.0.0
+TTS>=0.10.0
+phonemizer>=2.0.0
+whisper>=1.0.0
+ffmpeg-python>=4.4.0
+espeak-ng==1.50
