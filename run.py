@@ -18,3 +18,4 @@ word_durations=word_durations(audio_path)
 create_image_list(image_list_path,word_durations)
 generate_video(video_path,image_list_path)
 combine_audio_video(video_path,audio_path,final_output_path)
+git clone https://github.com/omjadhav007/VideoGeneration
